@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Poudel</h1>
 <h3 align="center">Computer engineering student and passionate Web developer</h3>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **Open Source Projects**
 
 - 🌱 I’m currently learning **App Development**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Darshan808?tab=repositories](https://github.com/Darshan808?tab=repositories)
 
-- 💬 Ask me about **react, node, gsap**
+- 💬 Ask me about **react, node, javascript, CP**
 
 - 📫 How to reach me **pranishpoudel10@gmail.com**
 
