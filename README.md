@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Cloud Technologies**
 
 - 👯 I’m looking to collaborate on **some Awesome projects**
 
