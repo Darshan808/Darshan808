@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Poudel</h1>
-<h3 align="center">Computer engineering student and passionate Web developer</h3>
+<h3 align="center">Computer engineering student and Open Source Contributor</h3>
 
-- 🔭 I’m currently working on **Open Source Projects**
+- 🔭 I’m currently working on **Jupyter Projects**
 
 - 🌱 I’m currently learning **Cloud Technologies**
 
