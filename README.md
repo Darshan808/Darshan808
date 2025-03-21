@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pranishpoudel10@gmail.com**
 
-- ⚡ Cool fact **I do CP**
+- ⚡ Cool fact **I do Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
