@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Darshan808?tab=repositories](https://github.com/Darshan808?tab=repositories)
 
-- 💬 Ask me about **Open Source, Python, Typescript**
+- 💬 Ask me about **Open Source, Jupyter, Python**
 
 - 📫 How to reach me **pranishpoudel10@gmail.com**
 
